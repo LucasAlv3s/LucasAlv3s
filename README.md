@@ -6,6 +6,9 @@
 <img align="center" alt="lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 style="max-width: 100%; ">
 </a>
+<a href="" target="_blank">
+<img align="center" alt="lucas-kaggle" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png">
+</a>
 
 ## My skills
 <img src="https://user-images.githubusercontent.com/80328704/120564485-65541800-c3e1-11eb-95a6-7af5d92affa4.png" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
