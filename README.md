@@ -1,27 +1,18 @@
-### Hi there 👋
-## Connect with me:
-<a href="https://github.com/LucasAlv3s" target="_blank">
-<img align="center" alt="lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-style="max-width: 100%; ">
-</a>
-<a href="https://www.linkedin.com/in/lucas-alves20/" target="_blank">
-<img align="center" alt="lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-style="max-width: 100%; ">
-</a>
-<a href="https://www.kaggle.com/lucasgsalves" target="_blank">
-<img align="center" alt="lucas-kaggle" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png">
-</a>
+Olá! Eu sou o Lucas Alves.
 
-## My skills
-<img src="https://user-images.githubusercontent.com/80328704/120564485-65541800-c3e1-11eb-95a6-7af5d92affa4.png" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120564583-a2200f00-c3e1-11eb-8841-c2d76a9f8d77.png" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120564680-cda2f980-c3e1-11eb-8de7-87d9b629b2c7.png" alt="PHP8" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120564729-f3c89980-c3e1-11eb-845a-4fcc69f4e23e.png" alt="Java" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120564829-22467480-c3e2-11eb-9d3d-94f526e3999c.png" alt="JS" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120564986-794c4980-c3e2-11eb-91dc-ca01b2cdda86.png" alt="Python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120564903-4efa8c00-c3e2-11eb-9321-5aa682258ce3.png" alt="MySQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://user-images.githubusercontent.com/80328704/120565164-dc3de080-c3e2-11eb-828b-7395d1978d85.png" alt="Github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40" style="max-width:100%;"></img>
+<div>
+  <a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact&langs_count=16&theme=dark" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+  
+##
+  
