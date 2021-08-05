@@ -22,16 +22,7 @@
    <a href="https://www.kaggle.com/lucasgsalves" target="_blank"><img src="https://img.icons8.com/windows/32/4a90e2/kaggle.png" target="_black"></a>
    <a href="https://lucasalv3s.itch.io" target="_blank"><img src="https://img.icons8.com/windows/32/fa314a/itch-io.png" target="_blank"></a>
  </div>
-<!--  
-<div>
-  <a href="https://www.youtube.com/channel/UCm8ib2bof61gxX_MsHg7RPw" target="_blank"><img src=""  target="_blank"></a>
-  <a href="" target="_blank"><img src=""  target="_blank"></a>
-  <a href="" target="_blank"><img src=""  target="_blank"></a>
-  <a href="" target="_blank"><img src=""  target="_blank"></a>
-  <a href="" target="_blank"><img src=""  target="_blank"></a>
-  <a href="" target="_blank"><img src=""  target="_blank"></a>
-  <a href="" target="_blank"><img src=""  target="_blank"></a>
-</div>
--->
+
+##
   
 ![Snake animation](https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg)
