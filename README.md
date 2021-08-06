@@ -5,13 +5,22 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <!--<h4>LANGUAGES:</h4>-->
   <img align="center" alt="Lucas-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <!--<img align="right" alt="" height="120" width="150" src="" />-->
+  <img align="center" alt="Lucas-Python" height="33" width="40" src="https://img.icons8.com/windows/32/4a90e2/r-project.png"/>
+  <br><br>
+  <!--<h4>DATABASE:</h4>-->
+  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <br><br>
+  <!--<h4>FRAMEWORKS:</h4>-->
+  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <!--<img align="center" alt="Lucas-" height="30" width="40" src="">-->
 </div>
   
 ##
