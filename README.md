@@ -20,7 +20,7 @@
   <br><br>
   <!--<h4>FRAMEWORKS:</h4>-->
   <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <!--<img align="center" alt="Lucas-" height="30" width="40" src="">-->
+  <img align="center" alt="Lucas-Django" height="49" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 </div>
   
 ##
