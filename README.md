@@ -29,6 +29,7 @@
    <a href="https://github.com/LucasAlv3s" target="_blank"><img src="https://img.icons8.com/fluency/48/ffffff/github.png" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucas-alves20/" target="_blank"><img src="https://img.icons8.com/color/48/ffffff/linkedin.png" target="_blank"></a>
    <a href="https://www.kaggle.com/lucasgsalves" target="_blank"><img src="https://img.icons8.com/windows/32/4a90e2/kaggle.png" target="_black"></a>
+   <a href="https://codepen.io/LucasAlv3s" target="_blank"><img src="https://img.icons8.com/ios/50/000000/codepen.png" target="_black"></a>
    <a href="https://lucasalv3s.itch.io" target="_blank"><img src="https://img.icons8.com/windows/32/fa314a/itch-io.png" target="_blank"></a>
  </div>
 
