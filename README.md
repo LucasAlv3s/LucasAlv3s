@@ -8,6 +8,12 @@
 </div>
 
 <h3>Languages and Tools:<h3>
-
+  
+<h3>Contact:</h3>
+<div>
+  <a href="https://www.linkedin.com/in/lucas-alves20/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
   
 ![Snake animation](https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg)
