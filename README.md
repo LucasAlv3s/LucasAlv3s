@@ -2,7 +2,7 @@
 
 <h3>FORMAÇÃO:</h3>
 - ETIM - Ensino Técnico em Informática para Internet Integrado ao Ensino Médio(2017 - 2019) / ETEC - Professor Mário Antônio Verza. <br>
-- Cursando Ciência de Dados(2020 - 2022) / FATEC - Faculdade de Tecnologia de Ourinhos. <br>
+- Cursando Ciência de Dados(2020 - 2022) / FATEC - Faculdade de Tecnologia de Ourinhos. <br><br><br>
 
 <div>
   <a>
