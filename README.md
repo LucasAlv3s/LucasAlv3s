@@ -2,8 +2,8 @@
 
 <div>
   <a>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact&langs_count=16&theme=dark" />
+    <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact&langs_count=16&theme=dark" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
