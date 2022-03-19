@@ -26,9 +26,11 @@
 
 <div>
   <a>
-    <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact&langs_count=16&theme=dark" />
-    <img align="center" height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasalv3s&" alt="lucasalv3s" />
+    <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=light&include_all_commits=true&count_private=true" />
+    <br><br>
+    <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact&langs_count=16&theme=light" />
+    <br><br>
+    <img align="center" height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAlv3s&" />
 </div>
   
 ![Snake animation](https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg)
