@@ -17,8 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-alves20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-alves20" height="30" width="40" /></a>
-<a href="https://instagram.com/lucasalvescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasalvescode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lucas-alves20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-alves20" height="30" width="40" /></a>
+  <a href="https://instagram.com/lucasalvescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasalvescode" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/lucasgsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lucasalvescode" height="30" width="40" /></a>
+      <a href="https://dev.to/_lucasalv3s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasalvescode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
