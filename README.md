@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucasAlv3s" /></a> </p>
 
+- 🏡 Portfolio Website em []()
+
 - 💻 Eu procuro colaborar em **projetos de ciência de dados e desenvolvimento fullstack.**
 
 - 📝 Eu regulamente escrevo em [https://medium.com/@_lucasalv3s_](https://medium.com/@_lucasalv3s_)
