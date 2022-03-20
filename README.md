@@ -15,7 +15,7 @@
 
 - 📫 Fale comigo em **lucas.alves55@fatec.sp.gov.br**
 
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/lucas-alves20/](https://www.linkedin.com/in/lucas-alves20/)
+- 👔 Saiba mais sobre mim em [https://www.linkedin.com/in/lucas-alves20/](https://www.linkedin.com/in/lucas-alves20/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
