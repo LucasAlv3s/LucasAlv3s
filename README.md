@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucasAlv3s" /></a> </p>
 
-- 👨‍💻 Formado no ETIM Ensino Técnico em Informática para Internet Integrado ao Médio | ETEC Professor Mário Antônio Verza (2017 - 2019).
+- 🎓 Formação em Ensino Técnico em Informática para Internet Integrado ao Médio | ETEC Professor Mário Antônio Verza (2017 - 2019).
 
-- 🎓 Cursando Tecnólogo em Ciência de Dados | FATEC Ourinhos Faculdade de Tecnologia de Ourinhos (2020 - 2022).
+- 👨‍💻 Cursando Tecnólogo em Ciência de Dados | FATEC Ourinhos Faculdade de Tecnologia de Ourinhos (2020 - 2022).
 
 - 🏡 Portfolio Website em []()
 
