@@ -1,13 +1,14 @@
-<h1 align="center">Oi 👋, Eu sou Lucas Alves.</h1>
-<h3 align="center">Um cientista de dados e um desenvolvedor fullstack apaixonado por compartilha conhecimento.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasAlv3s&label=Profile%20views&color=0e75b6&style=flat" alt="lucasalv3s" /> </p>
+<h1 align="center">Olá 👋, Eu me chamo Lucas Alves.</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucasAlv3s" /></a> </p>
 
+- 👨‍💻 Formado no ETIM Ensino Técnico em Informática para Internet Integrado ao Médio | ETEC Professor Mário Antônio Verza (2017 - 2019).
+
+- 🎓 Cursando Tecnólogo em Ciência de Dados | FATEC Ourinhos Faculdade de Tecnologia de Ourinhos (2020 - 2022).
+
 - 🏡 Portfolio Website em []()
 
-- 💻 Eu procuro colaborar em **projetos de ciência de dados e desenvolvimento fullstack.**
+- 💻 Eu procuro colaborar em **projetos de ciência de dados & desenvolvimento tanto no back-end ou no front-end.**
 
 - 📝 Eu regulamente escrevo em [https://medium.com/@_lucasalv3s_](https://medium.com/@_lucasalv3s_)
 
@@ -36,5 +37,7 @@
     <br><br>
     <img align="center" height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAlv3s&" />
 </div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasAlv3s&label=Profile%20views&color=0e75b6&style=flat" alt="lucasalv3s" /> </p>
   
 ![Snake animation](https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg)
