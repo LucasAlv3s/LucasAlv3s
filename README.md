@@ -1,22 +1,20 @@
-<h1 align="center">Olá 👋, Eu me chamo Lucas Alves.</h1>
+<h1 align="center">Hi 👋, My name is Lucas Alves.</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucasAlv3s" /></a> </p>
 
-- 🎓 Formação em Ensino Técnico em Informática para Internet Integrado ao Médio | ETEC Professor Mário Antônio Verza (2017 - 2019).
+- 🎓 Training in Technical Education in Computer Science for the Internet Integrated to the Middle School | ETEC Professor Mário Antônio Verza (2017 - 2019).
 
-- 👨‍💻 Cursando Tecnólogo em Ciência de Dados | FATEC Ourinhos Faculdade de Tecnologia de Ourinhos (2020 - 2022).
+- 👨‍💻 Studying Technologist in Data Science | FATEC Ourinhos Faculty of Technology of Ourinhos (2020 - 2022).
 
-- 🏡 Portfolio Website em []()
+- 🏡 Portfolio Website at []()
 
-- 💻 Eu procuro colaborar em **projetos de ciência de dados & desenvolvimento tanto no back-end ou no front-end.**
+- 📝 I regularly write in [https://medium.com/@_lucasalv3s_](https://medium.com/@_lucasalv3s_)
 
-- 📝 Eu regulamente escrevo em [https://medium.com/@_lucasalv3s_](https://medium.com/@_lucasalv3s_)
+- 💬 Ask me about **technology, data science, AI ethics, career and etc; I'll be happy to help :)**
 
-- 💬 Me pergunte sobre **tecnologia, ciência de dados, ética em IA, carreira e etc; ficarei feliz em ajudar :)**
+- 📫 Talk to me at **lucas.alves55@fatec.sp.gov.br**
 
-- 📫 Fale comigo em **lucas.alves55@fatec.sp.gov.br**
-
-- 👔 Saiba mais sobre mim em [https://www.linkedin.com/in/lucas-alves20/](https://www.linkedin.com/in/lucas-alves20/)
+- 👔 Learn more about me at [https://www.linkedin.com/in/lucas-alves20/](https://www.linkedin.com/in/lucas-alves20/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
