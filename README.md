@@ -1,13 +1,15 @@
-🎓 Training in Technical Education in Computer Science for the Internet Integrated to the Middle School | ETEC Professor Mário Antônio Verza (2017 - 2019).
+🎓 Formado em Ensino Técnico em Informática para Internet Integrado ao Médio na ETEC Professor Mário Antônio Verza (Início: 2017 - Término: 2019).
 
-👨‍💻 Studying Technologist in Data Science | FATEC Ourinhos Faculty of Technology of Ourinhos (2020 - 2022).
+👨‍💻 Cursando curso de tecnólogo em Ciência de Dados na Faculdade de Tecnologia de Ourinhos.
 
-🏡 Portfolio Website at []()
-
-📝 I regularly write in [https://medium.com/@_lucasalv3s_](https://medium.com/@_lucasalv3s_)
-
-💬 Ask me about **technology, data science, AI ethics, career and etc; I'll be happy to help :)**
-
-📫 Talk to me at **lucas.alves55@fatec.sp.gov.br**
-
-👔 Learn more about me at [https://www.linkedin.com/in/lucas-alves20/](https://www.linkedin.com/in/lucas-alves20/)
+<h1>Habilidades:</h1>
+◼ Linguagens de programação - PHP, JavaScript, Java, Python e R.
+◼ Banco de dados SQL - MySQL e PostgreSQL.
+◼ Banco de dados NoSQL - MongoDB.
+◼ Elaboração de relatórios e dashboards - Microsoft Excel e PowerBI.
+◼ Frameworks - Bootstrap, Materialize, Django e Flask.
+◼ Análise de dados.
+◼ Machine Learning.
+◼ Deep Learning.
+◼ IA.
+◼ Desenvolvimento Front-end ou Back-end.
