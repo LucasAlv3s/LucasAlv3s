@@ -2,7 +2,8 @@
 <img src="https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif" alt="Welcome to my GitHub" />
 
 <h2>My Contact:</h2>
-📧 <p>contatoprofissionallucasalves@outlook.com</p>
+📧 E-mail: <a href="contatoprofissionallucasalves@outlook.com">Get in Touch by Email</a>
+🗎  Potfolio(⚠️ => Coming soon): :-)
 
 <h2>My Skills:</h2>
 
