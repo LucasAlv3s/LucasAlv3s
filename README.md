@@ -33,7 +33,8 @@
 </div>
 
 <div align='center'>
-  <img src="https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact" style="width: 400px" /> <img src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=radical" style="width: 475px" />
+  <img src="https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align=center>
