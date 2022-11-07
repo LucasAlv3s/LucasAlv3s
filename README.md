@@ -1,5 +1,5 @@
 <h1>Hi, welcome to my GitHub!</h1>
-<img src="https://i.pinimg.com/originals/7f/34/d8/7f34d82e0a824589ed7fcfbc7b1a7be0.gif" alt="Welcome to my GitHub" />
+<img src="http://pa1.narvii.com/6482/0e65e14c3294d726806f0c914b9e890e5c420175_00.gif" alt="Welcome to my GitHub" />
 
 <h2>My Contact:</h2>
 📧 E-mail: contatoprofissionallucasalves@outlook.com | 🗎  Potfolio(⚠️ => Coming soon): :-)
