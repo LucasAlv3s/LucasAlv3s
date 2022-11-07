@@ -15,6 +15,23 @@
   </a>
 </div>
 
+<div align="center">
+  <h1 align="center">Educational Level 🎓</h1>
+  <a href="http://etecpalmital.hospedagemdesites.ws/wp/" target="_blank">
+    <img alt="ETEC Professor Mário Antônio Verza" src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2020/10/etec-palmital.jpg" style="width: 500px" />
+  </a>
+  <p>
+    Graduated in Technical Education for Web Development Integrated to High School, starting in 2017 and finishing in 2019.
+  </p>
+  </a>
+     <a href="https://www.fatecourinhos.edu.br/" target="_blank">
+    <img alt="FATEC Ourinhos - Faculdade de Tecnologia de Ourinhos" src="https://scontent.fmii8-1.fna.fbcdn.net/v/t39.30808-6/313864394_3256836807861531_4396744523738537443_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=opkPIQAnIOEAX-DGShl&_nc_ht=scontent.fmii8-1.fna&oh=00_AfByeyu2_wlJT7KjSylKR6r4dKdAzZ7_4IKvq-PoW0A5cw&oe=636E9EBF" style="width: 500px" />
+  </a>
+  <p>     
+    Attending the last semester of the Data Science technologist course at the Faculty of Technology of Ourinhos, starting in 2020 and ending in 2022.
+  </p>
+</div>
+
 <div align='center'>
   <img src="https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg"/>
 </div>
