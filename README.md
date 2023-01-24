@@ -4,15 +4,9 @@
 <br>
 
 <div align="center">
-  <h1>My Services</h1>
-  
-  #### Freelancer in Data Scientist, Data Analyst and Back-end/Front-end Developer
-</div>
-<br>
-
-<div align="center">
   <h1>My Contact</h1>
 </div>
+<br>
 
 <div align="center">
   <h1>Academic Education</h1>
