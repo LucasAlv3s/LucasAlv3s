@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <h3>Freelancer in Data Science, Data Analyst, Back-end/Front-end Developer</h3>
+  <h3>Freelancer in Data Science, Data Analyst and Back-end/Front-end Developer</h3>
 </div>
 
 <div align="center">
