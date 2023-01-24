@@ -33,7 +33,6 @@
         <img align="center" height="30" width="40" alt="kaggle-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg">
         <img align="center" height="30" width="40" alt="nextjs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
         <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-        <br><br>
         <img align="center" height="30" width="40" alt="npm-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
         <img align="center" height="30" width="40" alt="pandas-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
         <img align="center" height="30" width="40" alt="php-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
