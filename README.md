@@ -4,8 +4,8 @@
 <br>
 
 <div align="center">
-  <h3>Freelancer in Data Scientist, Data Analyst and Back-end/Front-end Developer</h3>
-  
+  <h1>My Services</h1>
+  Freelancer in Data Scientist, Data Analyst and Back-end/Front-end Developer
 </div>
 <br>
 
@@ -14,6 +14,7 @@
   • Technical Education in Web Development Integrated to High School at ETEC Professor Mário Antônio Verza - <a href="http://www.etecpalmital.com.br/wp/">ETEC Palmital</a>.
   • Graduated in Technologist in Data Science at the Faculty of Technology of Ourinhos - <a href="https://www.fatecourinhos.edu.br/">FATEC Ourinhos</a>.
 </div>
+<br>
 
 <div align="center">
     <a href="https://github.com/LucasAlv3s">
