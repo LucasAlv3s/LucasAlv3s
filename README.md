@@ -5,7 +5,8 @@
 
 <div align="center">
   <h1>My Services</h1>
-  Freelancer in Data Scientist, Data Analyst and Back-end/Front-end Developer
+  
+  #### Freelancer in Data Scientist, Data Analyst and Back-end/Front-end Developer
 </div>
 <br>
 
@@ -15,8 +16,10 @@
 
 <div align="center">
   <h1>Academic Education</h1>
-  • Technical Education in Web Development Integrated to High School at ETEC Professor Mário Antônio Verza - <a href="http://www.etecpalmital.com.br/wp/">ETEC Palmital</a>.<br>
-  • Graduated in Technologist in Data Science at the Faculty of Technology of Ourinhos - <a href="https://www.fatecourinhos.edu.br/">FATEC Ourinhos</a>.
+  
+  #### • Technical Education in Web Development Integrated to High School at ETEC Professor Mário Antônio Verza - <a href="http://www.etecpalmital.com.br/wp/">ETEC Palmital</a>.<br>
+  
+  #### • Graduated in Technologist in Data Science at the Faculty of Technology of Ourinhos - <a href="https://www.fatecourinhos.edu.br/">FATEC Ourinhos</a>.
 </div>
 <br>
 
@@ -40,6 +43,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
+    <br><br><br><br><br><br><br>
     <h1 align="center">Technologies <3</h1>
         <img align="center" height="30" width="40" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
         <img align="center" height="30" width="40" alt="javascript-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
