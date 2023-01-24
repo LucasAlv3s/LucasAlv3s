@@ -4,6 +4,10 @@
 <br>
 
 <div align="center">
+  <h3>Freelancer in Data Science, Data Analyst, Back-end/Front-end Developer</h3>
+</div>
+
+<div align="center">
     <a href="https://github.com/LucasAlv3s">
       <img src="https://img.shields.io/github/followers/LucasAlv3s?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
     </a>
