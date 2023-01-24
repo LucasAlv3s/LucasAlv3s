@@ -1,4 +1,8 @@
-# Hello, welcome to my GitHub profile!
+<div align="center">
+  <h1>Hello, welcome to my GitHub profile & God above all 🙏🏻📿</h1>
+  <img  width="80%" height="100%" src="https://media.tenor.com/Vh-Y8WSLqXQAAAAC/tokyo-revengers-church.gif"/>
+</div>
+<br>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
