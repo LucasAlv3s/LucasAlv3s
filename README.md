@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, welcome to my GitHub profile & God above all 🙏🏻📿</h1>
+  <h1>Hello, welcome to my GitHub profile!</h1>
   <img  width="80%" height="100%" src="https://media.tenor.com/Vh-Y8WSLqXQAAAAC/tokyo-revengers-church.gif"/>
 </div>
 <br>
