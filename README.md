@@ -10,6 +10,10 @@
 <br>
 
 <div align="center">
+  <h1>My Contact</h1>
+</div>
+
+<div align="center">
   <h1>Academic Education</h1>
   • Technical Education in Web Development Integrated to High School at ETEC Professor Mário Antônio Verza - <a href="http://www.etecpalmital.com.br/wp/">ETEC Palmital</a>.<br>
   • Graduated in Technologist in Data Science at the Faculty of Technology of Ourinhos - <a href="https://www.fatecourinhos.edu.br/">FATEC Ourinhos</a>.
