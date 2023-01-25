@@ -5,6 +5,8 @@
 
 <div align="center">
   <h1>My Contact</h1>
+  <a href="#">E-mail: contatoprofissionallucasalves@outlook.com</a><br>
+  <a href="#">Instagram: blackdragons.dev</a>
 </div>
 <br>
 
