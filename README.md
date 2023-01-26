@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hello, welcome to my GitHub profile!</h1>
+  <img width="800" src="https://media.tenor.com/IVnq1AO7IgsAAAAC/anime-tokyo-revengers.gif">
 </div>
 <br>
 
