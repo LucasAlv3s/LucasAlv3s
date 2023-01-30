@@ -1,9 +1,4 @@
 <div align="center">
-  <h1>Hello, welcome to my GitHub profile!</h1>
-</div>
-<br>
-
-<div align="center">
     <a href="https://github.com/LucasAlv3s">
       <img src="https://img.shields.io/github/followers/LucasAlv3s?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
     </a>
