@@ -1,18 +1,10 @@
-<div align="center">
-    <a href="https://github.com/LucasAlv3s">
-      <img src="https://img.shields.io/github/followers/LucasAlv3s?color=green&label=GitHub&logo=GitHub&style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/LucasAlv3s?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LucasAlv3s"/>
-    </a>
-    
-</div>
-<br>
+### Olá eu meu chamo Lucas Alves seja bem-vindo(a) ao meu perfil do GitHub!
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlv3s&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlv3s&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br>
-  
-![Snake animation](https://github.com/LucasAlv3s/LucasAlv3s/blob/output/github-contribution-grid-snake.svg)
