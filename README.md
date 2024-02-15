@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="#">
+  <a href="mailto:lucasbiel40@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-alves20/" target="_blank">
@@ -53,3 +53,21 @@
 </div>
 
 <hr/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    (function($) {
+  $('a[href^=mailto]').each(function() {
+    var href = $(this).attr('href');
+    $(this).click(function() {
+      var t;
+      var self = $(this);
+      $(window).blur(function() {
+        clearTimeout(t);
+      });
+      t = setTimeout(function() {
+        document.location.href = '...';
+      }, 500);
+    });
+  });
+})(jQuery);
+</script>
