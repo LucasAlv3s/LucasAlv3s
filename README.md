@@ -51,23 +51,3 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script>
-    (function($) {
-  $('a[href^=mailto]').each(function() {
-    var href = $(this).attr('href');
-    $(this).click(function() {
-      var t;
-      var self = $(this);
-      $(window).blur(function() {
-        clearTimeout(t);
-      });
-      t = setTimeout(function() {
-        document.location.href = '...';
-      }, 500);
-    });
-  });
-})(jQuery);
-</script>
