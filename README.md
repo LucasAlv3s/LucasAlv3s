@@ -1,9 +1,5 @@
 # 👨‍💻 Lucas Alves
 
-``Professor de Tecnologia da Informação & Desenvolvedor Full-stack``
-
-Me chamo Lucas Alves, tenho 23 anos e sou natural de Palmital. Concluí o ensino médio na ETEC Professor Mário Antônio Verza, com o curso técnico em informática em para internet. Atualmente, me formei como tecnólogo em Ciência de Dados na FATEC de Ourinhos. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Professor Lucas Alves", onde ensino a criar projetos web, mobile, desktop e de dentre outras tecnologias.
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
